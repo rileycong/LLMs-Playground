@@ -1,0 +1,7 @@
+langchain
+openai
+streamlit
+python-dotenv
+youtube-transcript-api
+tiktoken
+faiss-cpu
